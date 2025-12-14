@@ -1,0 +1,10 @@
+function toggleTask(button) {
+  const task = button.parentElement;
+  task.classList.toggle("done");
+
+  if (task.classList.contains("done")) {
+    button.textContent = "Izpildīts ✓";
+  } else {
+    button.textContent = "Atzīmēt";
+  }
+}

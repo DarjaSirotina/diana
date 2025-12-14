@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>Skolēnu laika plānotājs</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h2>Laika plānotājs</h2>
+    <ul>
+      <li><a href="index.html">Sākums</a></li>
+      <li><a href="calendar.html">Kalendārs</a></li>
+      <li><a href="tasks.html">Uzdevumi</a></li>
+      <li><a href="login.html">Pieteikties</a></li>
+      <li><a href="about.html">Par mums</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>Skolēnu laika plānotājs</h1>
+    <p>Digitāls rīks uzdevumu, pārbaudījumu un brīvā laika plānošanai</p>
+    <a href="login.html" class="button">Sākt darbu</a>
+  </section>
+
+  <section class="cards">
+    <article class="card">
+      <h3>📅 Kalendārs</h3>
+      <p>Pārskats par termiņiem un eksāmeniem</p>
+    </article>
+    <article class="card">
+      <h3>✅ Uzdevumi</h3>
+      <p>Pārvaldi savus darbus vienuviet</p>
+    </article>
+    <article class="card">
+      <h3>🔔 Atgādinājumi</h3>
+      <p>Nekavē termiņus</p>
+    </article>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Skolēnu laika plānotājs</p>
+</footer>
+
+</body>
+</html>

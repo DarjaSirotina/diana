@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>Uzdevumi</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js" defer></script>
+</head>
+<body>
+
+<header>
+  <nav>
+    <h2>Uzdevumi</h2>
+    <ul>
+      <li><a href="index.html">Sākums</a></li>
+      <li><a href="calendar.html">Kalendārs</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="card">
+    <h3>📘 Mājasdarbi</h3>
+    <div>
+      <p>Matemātikas uzdevumi</p>
+      <button class="button" onclick="toggleTask(this)">Atzīmēt</button>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025</p>
+</footer>
+
+</body>
+</html>

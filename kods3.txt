@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>Kalendārs</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h2>Kalendārs</h2>
+    <ul>
+      <li><a href="index.html">Sākums</a></li>
+      <li><a href="tasks.html">Uzdevumi</a></li>
+      <li><a href="about.html">Par mums</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="card">
+    <h3>📅 Tuvākie notikumi</h3>
+    <p>Matemātikas tests – 20.12</p>
+    <p>Referāts latviešu valodā – 22.12</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025</p>
+</footer>
+
+</body>
+</html>

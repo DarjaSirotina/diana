@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>Par mums</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h2>Par projektu</h2>
+    <ul>
+      <li><a href="index.html">Sākums</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="card">
+    <p>Šis projekts izstrādāts, lai palīdzētu skolēniem plānot savu laiku un uzlabot mācību rezultātus.</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025</p>
+</footer>
+
+</body>
+</html>
